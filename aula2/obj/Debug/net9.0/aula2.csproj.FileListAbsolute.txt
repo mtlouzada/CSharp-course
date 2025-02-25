@@ -1,0 +1,14 @@
+C:\dev\Csharp\aula2\bin\Debug\net9.0\aula2.exe
+C:\dev\Csharp\aula2\bin\Debug\net9.0\aula2.deps.json
+C:\dev\Csharp\aula2\bin\Debug\net9.0\aula2.runtimeconfig.json
+C:\dev\Csharp\aula2\bin\Debug\net9.0\aula2.dll
+C:\dev\Csharp\aula2\bin\Debug\net9.0\aula2.pdb
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.AssemblyInfoInputs.cache
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.AssemblyInfo.cs
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.csproj.CoreCompileInputs.cache
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.dll
+C:\dev\Csharp\aula2\obj\Debug\net9.0\refint\aula2.dll
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.pdb
+C:\dev\Csharp\aula2\obj\Debug\net9.0\aula2.genruntimeconfig.cache
+C:\dev\Csharp\aula2\obj\Debug\net9.0\ref\aula2.dll
