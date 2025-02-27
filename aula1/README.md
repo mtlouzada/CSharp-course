@@ -1,4 +1,7 @@
-Configurando o ambiente e fazendo o primeiro hello world
+# Aula 1 by CFB Cursos 🧑🏻‍💻
+
+###
+### Configurando o ambiente e fazendo o primeiro hello world
 
 aprendendo a criar o método principal da classe
 

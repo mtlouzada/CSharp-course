@@ -1,0 +1,15 @@
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.AssemblyInfoInputs.cache
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.AssemblyInfo.cs
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.csproj.CoreCompileInputs.cache
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.sourcelink.json
+C:\dev\CFB Cursos C#\aula4\bin\Debug\net9.0\aula4.exe
+C:\dev\CFB Cursos C#\aula4\bin\Debug\net9.0\aula4.deps.json
+C:\dev\CFB Cursos C#\aula4\bin\Debug\net9.0\aula4.runtimeconfig.json
+C:\dev\CFB Cursos C#\aula4\bin\Debug\net9.0\aula4.dll
+C:\dev\CFB Cursos C#\aula4\bin\Debug\net9.0\aula4.pdb
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.dll
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\refint\aula4.dll
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.pdb
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\aula4.genruntimeconfig.cache
+C:\dev\CFB Cursos C#\aula4\obj\Debug\net9.0\ref\aula4.dll
