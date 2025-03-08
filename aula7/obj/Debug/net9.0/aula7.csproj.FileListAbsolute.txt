@@ -1,0 +1,15 @@
+C:\developer\CSharp-course\aula7\bin\Debug\net9.0\aula7.exe
+C:\developer\CSharp-course\aula7\bin\Debug\net9.0\aula7.deps.json
+C:\developer\CSharp-course\aula7\bin\Debug\net9.0\aula7.runtimeconfig.json
+C:\developer\CSharp-course\aula7\bin\Debug\net9.0\aula7.dll
+C:\developer\CSharp-course\aula7\bin\Debug\net9.0\aula7.pdb
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.GeneratedMSBuildEditorConfig.editorconfig
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.AssemblyInfoInputs.cache
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.AssemblyInfo.cs
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.csproj.CoreCompileInputs.cache
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.sourcelink.json
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.dll
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\refint\aula7.dll
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.pdb
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\aula7.genruntimeconfig.cache
+C:\developer\CSharp-course\aula7\obj\Debug\net9.0\ref\aula7.dll
